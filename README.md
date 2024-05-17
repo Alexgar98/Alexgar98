@@ -115,7 +115,7 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
 </div>
 
 ## Contact me
-Do you want me on your team? Or perhaps you simply want to here from me? You can add me on <a href="https://www.linkedin.com/in/alexis-garcia-diaz/">Linkedin</a> or send me <a href="mailto:aleexis98@gmail.com">an email</a> and I will be happy to answer as soon as possible.
+Do you want me on your team? Or perhaps you simply want to hear from me? You can add me on <a href="https://www.linkedin.com/in/alexis-garcia-diaz/">Linkedin</a> or send me <a href="mailto:aleexis98@gmail.com">an email</a> and I will be happy to answer as soon as possible.
 
   </body>
 </html>
