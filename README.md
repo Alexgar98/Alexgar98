@@ -5,7 +5,7 @@
     </div>
     
 ## Hello!
-My name is Alexis García and I'm a programmer. I'm interested in app development and especially videogames (both development and design). I have some experience in mobile development but I'm eager to explore other areas and keep learning.
+My name is Alexis García and I'm a programmer. I'm interested in software development and especially videogames (both development and design). I have some experience in mobile development but I'm eager to explore other areas and keep learning.
 
 <div align="center">
   <img align="center" height=100px src="https://64.media.tumblr.com/0d5653e44cd89a8c90a1bb13de337540/1b2a96f204e26cfb-9d/s1280x1920/d5674c39f8b0b02cfa2c50b972815be591447000.png" />
