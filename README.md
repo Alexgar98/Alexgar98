@@ -64,7 +64,7 @@ Here are some projects that I have done or I am doing at the moment:
 </div>
 
 ## 42 school
-I study in 42 Málaga since November 2023. Here are the projects I have made so far in the cursus (not uploaded to Github yet):
+I study in 42 Málaga since November 2023. Here are the projects I have made so far in the cursus, mainly written in C (not uploaded to Github yet):
 
 <div align="center">
 <table>
