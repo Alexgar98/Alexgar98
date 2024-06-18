@@ -77,7 +77,7 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
 </thead>
 <tbody>
   <tr>
-    <td>Libft</td>
+    <td><a href="https://github.com/Alexgar98/Libft">Libft</a></td>
     <td>A library with many general use functions</td>
     <td>🌟 125/100</td>
   </tr>
@@ -105,6 +105,16 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
     <td>push_swap</td>
     <td>Order integers with as few instructions as possible</td>
     <td>✅ 100/100</td>
+  </tr>
+  <tr>
+    <td>minitalk</td>
+    <td>A small protocol of communication between a server and a client program using Unix signals</td>
+    <td>✅ 100/100</td>
+  </tr>
+  <tr>
+    <td>minishell</td>
+    <td>A recreation of the command shell used in Linux</td>
+    <td>⚒️ WIP</td>
   </tr>
 </tbody>
 </table>
