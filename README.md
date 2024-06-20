@@ -124,6 +124,13 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
   <img align="center" height=100px src="https://64.media.tumblr.com/0d5653e44cd89a8c90a1bb13de337540/1b2a96f204e26cfb-9d/s1280x1920/d5674c39f8b0b02cfa2c50b972815be591447000.png" />
 </div>
 
+## Some more personal stuff
+I like to waste my free time in monster-taming videogames, especially where there are dragons. I like dragons (of all kinds) to such an extent that my room is full of them. I speak Spanish (native), English (C1), German (B1) and French (A2-B1), and I would like to learn some more languages in the future. I also read manga sometimes, but it's less often than I would like.
+
+<div align="center">
+  <img align="center" height=100px src="https://64.media.tumblr.com/0d5653e44cd89a8c90a1bb13de337540/1b2a96f204e26cfb-9d/s1280x1920/d5674c39f8b0b02cfa2c50b972815be591447000.png" />
+</div>
+
 ## Contact me
 Do you want me on your team? Or perhaps you simply want to hear from me? You can add me on <a href="https://www.linkedin.com/in/alexis-garcia-diaz/">Linkedin</a> or send me <a href="mailto:aleexis98@gmail.com">an email</a> and I will be happy to answer as soon as possible.
 
