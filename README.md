@@ -64,7 +64,7 @@ Here are some projects that I have done or I am doing at the moment:
 </div>
 
 ## 42 school
-I study in 42 Málaga since November 2023. Here are the projects I have made so far in the cursus, mainly written in C (not uploaded to Github yet):
+I study in 42 Málaga since November 2023. Here are the projects I have made so far in the cursus, mainly written in C:
 
 <div align="center">
 <table>
@@ -82,7 +82,7 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
     <td>🌟 125/100</td>
   </tr>
   <tr>
-    <td>ft_printf</td>
+    <td><a href="https://github.com/Alexgar98/ft_printf">ft_printf</a></td>
     <td>Remake of the printf function</td>
     <td>✅ 100/100</td>
   </tr>
@@ -92,22 +92,22 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
     <td>🌟 125/100</td>
   </tr>
   <tr>
-    <td>get_next_line</td>
+    <td><a href="https://github.com/Alexgar98/get_next_line">get_next_line</a></td>
     <td>Code-efficient way to read from a file</td>
     <td>✅ 100/100</td>
   </tr>
   <tr>
-    <td>so_long</td>
+    <td><a href="https://github.com/Alexgar98/so_long">so_long</a></td>
     <td>Small 2D videogame where a character must take collectibles and exit the map</td>
     <td>🌟 110/100</td>
   </tr>
   <tr>
-    <td>push_swap</td>
+    <td><a href="https://github.com/Alexgar98/push_swap">push_swap</a></td>
     <td>Order integers with as few instructions as possible</td>
     <td>✅ 100/100</td>
   </tr>
   <tr>
-    <td>minitalk</td>
+    <td><a href="https://github.com/Alexgar98/minitalk">minitalk</a></td>
     <td>A small protocol of communication between a server and a client program using Unix signals</td>
     <td>✅ 100/100</td>
   </tr>
