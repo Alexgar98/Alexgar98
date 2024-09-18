@@ -112,8 +112,13 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
     <td>✅ 100/100</td>
   </tr>
   <tr>
-    <td>minishell</td>
+    <td><a href="https://github.com/Jacon69/Minishell">minishell</a></td>
     <td>A recreation of the command shell used in Linux</td>
+    <td>✅ 100/100</td>
+  </tr>
+  <tr>
+    <td>Philosophers</td>
+    <td>A solution for the famous 'Dining Philosophers problem', a problem about sync issues between threads</td>
     <td>⚒️ WIP</td>
   </tr>
 </tbody>
