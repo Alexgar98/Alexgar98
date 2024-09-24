@@ -117,8 +117,13 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
     <td>✅ 100/100</td>
   </tr>
   <tr>
-    <td>Philosophers</td>
+    <td><a href="https://github.com/Alexgar98/Philosophers">Philosophers</a></td>
     <td>A solution for the famous 'Dining Philosophers problem', a problem about sync issues between threads</td>
+    <td>✅ 100/100</td>
+  </tr>
+  <tr>
+    <td>NetPractice</td>
+    <td>A practical exercise about networks</td>
     <td>⚒️ WIP</td>
   </tr>
 </tbody>
