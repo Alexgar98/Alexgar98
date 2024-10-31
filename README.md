@@ -64,7 +64,7 @@ Here are some projects that I have done or I am doing at the moment:
 </div>
 
 ## 42 school
-I study in 42 Málaga since November 2023. Here are the projects I have made so far in the cursus, mainly written in C:
+I study in 42 Málaga since November 2023 (currently on freeze). Here are the projects I have made so far in the cursus, mainly written in C:
 
 <div align="center">
 <table>
@@ -124,7 +124,7 @@ I study in 42 Málaga since November 2023. Here are the projects I have made so 
   <tr>
     <td>NetPractice</td>
     <td>A practical exercise about networks</td>
-    <td>⚒️ WIP</td>
+    <td>✅ 100/100</td>
   </tr>
 </tbody>
 </table>
